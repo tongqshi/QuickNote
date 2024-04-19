@@ -1,6 +1,8 @@
 ## 在jupyter notebook中添加anaconda虚拟环境
 
-conda activate myenv
+创建一个虚拟环境myenv或者选择已有环境
+
+激活环境conda activate myenv
 
 conda install ipykernel
 
